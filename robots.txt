@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://geheimrezept.pers.biz.id/sitemap_index.xml
